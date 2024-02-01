@@ -1,4 +1,4 @@
-module github.com/9ssi7/sse-demo
+module github.com/9ssi7/sse-demo/e-101
 
 go 1.21.5
 
