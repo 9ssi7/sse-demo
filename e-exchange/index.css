@@ -1,0 +1,28 @@
+#price-container {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.price-card {
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.price-card h3 {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.price-card h3 #rate-with-arrow.up {
+    color: green;
+}
+
+.price-card h3 #rate-with-arrow.down {
+    color: red;
+}
+
